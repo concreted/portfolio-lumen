@@ -1,0 +1,13 @@
+siteTitle = "Aric Huang | Portfolio"
+siteDescr = "Stuff about stuff"
+siteAuthor = "Aric Huang"
+
+siteGithubUrl = "http://github.com/concreted"
+siteLinkedInUrl = "https://www.linkedin.com/in/arichuang1"
+siteFacebookUrl = "https://www.facebook.com/aric.huangu"
+siteEmailUrl = "arichuang@gmail.com"
+
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
