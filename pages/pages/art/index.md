@@ -1,7 +1,7 @@
 ---
-title: "Code"
+title: "Art"
 layout: page
-path: "/code"
+path: "/art"
 ---
 
 ### [chipjs](https://github.com/concreted/chipjs) (2016)
