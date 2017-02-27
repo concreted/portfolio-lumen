@@ -11,7 +11,7 @@ WIP attempt at a Chip8 emulator in Javascript.
 A port of the Game Boy game in [Puzzlescript]("http://www.puzzlescript.net/"), with a C++/ImageMagick parser for converting screenshots into game levels.
 
 ### [hackenpy](https://github.com/concreted/hackenpy) (2014)
-The (game)[https://en.wikipedia.org/wiki/Hackenbush] by John Conway written in Python.
+The [game](https://en.wikipedia.org/wiki/Hackenbush) by John Conway written in Python.
 
 ### [tspy](https://github.com/concreted/tspy) (2014)
 Implementation of the Held-Karp algorithm for solving the traveling salesman problem.
