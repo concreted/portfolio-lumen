@@ -42,13 +42,13 @@
 	.sidebar .sidebar-inner {
 		padding: 35px 20px 0;
 	}
-	.sidebar {
+	/*.sidebar {
 		lost-column: 1/2;
-	}
+	}*/
 }
 @media (max-width:900px) {
 	.sidebar {
-		lost-column: 5/12;
+		lost-column: 4/12;
 	}
 	.sidebar .sidebar-inner {
 		padding: 30px 20px 0;
