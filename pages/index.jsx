@@ -50,7 +50,7 @@ class SiteIndex extends React.Component {
                 </div>
               </div>
             </div>
-              )
+        )
     }
 }
 

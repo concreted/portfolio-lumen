@@ -31,7 +31,7 @@ class SiteNav extends React.Component {
                 </li>
               </ul>
             </nav>
-            );
+        );
     }
 }
 
