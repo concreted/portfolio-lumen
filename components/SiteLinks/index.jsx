@@ -37,6 +37,22 @@ class SiteLinks extends React.Component {
             )}
           </ul>
           <ul>
+            {config.siteYoutubeUrl && (
+              <li>
+                <a href={config.siteYoutubeUrl}>
+                  <i className="fa fa-youtube-play" />
+                </a>
+              </li>
+            )}
+            {config.siteSoundcloudUrl && (
+              <li>
+                <a href={config.siteSoundcloudUrl}>
+                  <i className="fa fa-soundcloud" />
+                </a>
+              </li>
+            )}
+          </ul>
+          <ul>
             {config.siteEmailUrl && (
               <li>
                 <a href={config.siteEmailUrl}>
