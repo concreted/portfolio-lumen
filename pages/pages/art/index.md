@@ -4,20 +4,17 @@ layout: page
 path: "/art"
 ---
 
-### [chipjs](https://github.com/concreted/chipjs) (2016)
-WIP attempt at a Chip8 emulator in Javascript.
+### [portraits](http://imgur.com/a/yj0qI)
+<a href="http://imgur.com/a/yj0qI">
+	<img src="http://i.imgur.com/MhLQjhx.png" width="300">
+</a>
 
-### [catrap](https://github.com/concreted/catrap) (2015)
-A port of the Game Boy game in [Puzzlescript]("http://www.puzzlescript.net/"), with a C++/ImageMagick parser for converting screenshots into game levels.
+### [pixel art](http://imgur.com/a/6YJ9u)
+<a href="http://imgur.com/a/6YJ9u">
+	<img src="http://i.imgur.com/rsWXXJt.png" width="300">
+</a>
 
-### [hackenpy](https://github.com/concreted/hackenpy) (2014)
-The (game)[https://en.wikipedia.org/wiki/Hackenbush] by John Conway written in Python.
-
-### [tspy](https://github.com/concreted/tspy) (2014)
-Implementation of the Held-Karp algorithm for solving the traveling salesman problem.
-
-### [mcrypto](https://github.com/concreted/mcrypto) (2014)
-Early attempt at the [Matasano Crypto Challenges]("https://cryptopals.com/"").
-
-### [project-euler](https://github.com/concreted/project-euler) (2014)
-Project Euler solutions using eulerpy.
+### [misc](http://imgur.com/a/h8S9i)
+<a href="http://imgur.com/a/h8S9i">
+	<img src="http://i.imgur.com/9dTV8JM.png" width="300">
+</a>
