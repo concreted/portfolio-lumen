@@ -14,7 +14,7 @@ class SiteNav extends React.Component {
                   </Link>
                 </li>
                 <li>
-                  <Link to={ prefixLink('/about/')} activeClassName="current"> About me
+                  <Link to={ prefixLink('/about/')} activeClassName="current"> About
                   </Link>
                 </li>
                 <li>
