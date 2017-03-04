@@ -11,7 +11,7 @@ path: "/comics"
 
 ### [CERT](http://imgur.com/a/zgBZU) (2008)
 <a href="http://imgur.com/a/zgBZU">
-	<img src="http://i.imgur.com/VCNO7qp.jpg" width=300>
+	<img src="http://i.imgur.com/2dL6VnR.jpg" width=300>
 </a>
 
 ### [fly away home](http://imgur.com/a/NjEZA) (2007)
