@@ -372,12 +372,6 @@ hr {
 		height: 1.722222222222222rem;
 	}
 }
-img {
-	border: 0;
-	max-width: 100%;
-	display: block;
-	margin: inherit auto;
-}
 svg:not(:root) {
 	overflow: hidden;
 }
