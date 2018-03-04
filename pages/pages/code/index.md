@@ -4,6 +4,9 @@ layout: page
 path: "/code"
 ---
 
+### [funes](https://github.com/mirainc/funes) (2016)
+An aggressively caching forward proxy, intended for clients with intermittent network connectivity that need to display fetched content seamlessly when offline.
+
 ### [chipjs](https://github.com/concreted/chipjs) (2016)
 WIP attempt at a Chip8 emulator in Javascript.
 
