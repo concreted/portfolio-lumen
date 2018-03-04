@@ -33,6 +33,10 @@ class SiteNav extends React.Component {
                   <Link to={ prefixLink('/comics/')} activeClassName="current"> Comics
                   </Link>
                 </li>
+                <li>
+                  <Link to={ prefixLink('/games/')} activeClassName="current"> Games
+                  </Link>
+                </li>
               </ul>
             </nav>
         );
