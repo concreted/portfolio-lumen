@@ -4,6 +4,9 @@ layout: page
 path: "/code"
 ---
 
+### [balena-maintenance-windows](https://github.com/mirainc/balena-maintenance-windows) (2019)
+Docker container that allows support for maintenance windows for IoT devices running on the [balena](https://www.balena.io/) platform.
+
 ### [funes](https://github.com/mirainc/funes) (2018)
 An aggressively caching forward proxy, intended for clients with intermittent network connectivity that need to display fetched content seamlessly when offline.
 
